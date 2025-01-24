@@ -43,7 +43,7 @@ The script in the [Jupyter](https://jupyter.org/install) notebook will:
 
   `source venv/bin/activate` [macOS/Linux]
 
-  `venv/Scripts/activate` [Windows]
+  `venv\Scripts\activate` [Windows]
 
   NOTE: To uninstall the script, deactivate the virtual environment and remove it:
 
